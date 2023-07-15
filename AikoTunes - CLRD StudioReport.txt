@@ -1,0 +1,58 @@
+Report created: 
+	7/15/2023	9:16:15 AM
+
+Project name: AikoTunes - CLRD Studio.aep
+
+Source files collected to: 
+	C:\Users\Administrator\Desktop\aikotunes
+
+Source files collected: All
+
+Collected comps:  
+	Song
+	BG
+	Audio Spectrum
+	Audio Wavefrom
+	Main
+	BG_SK
+	
+Number of collected files:  2
+
+Size of collected files:  5.2 MB
+
+Collected source files: 
+	C:\Users\Administrator\Desktop\music.mp3
+	C:\Users\Administrator\Pictures\bg.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  10
+
+Effect:  Audio Spectrum
+	
+Effect:  Audio Waveform
+	
+Effect:  Brightness & Contrast
+	
+Effect:  CC Snowfall
+	
+Effect:  Curves
+	
+Effect:  Drop Shadow
+	
+Effect:  Exposure
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Sound Keys
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Lemon/Milk”, Font style: “Bold”
+		Font family: “Lemon/Milk”, Font style: “light italic”
+		Font family: “Lemon/Milk”, Font style: “Regular”
+
